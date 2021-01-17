@@ -1,0 +1,50 @@
+header {
+    background-color: cornflowerblue;
+    margin: 5px;
+    padding: 15px;
+    display: flex;
+}
+
+header h1 {
+    color: yellow;
+    padding-left: 30px;
+}
+
+main {
+    display: inline;
+}
+
+main .questions {
+    margin-left: 5px;  
+    font-size: 32px;
+    padding: 30px;
+}
+
+#counter {
+    color: yellow;
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 800px;
+}
+
+main div {
+    padding: 30px;
+}
+
+.btn {
+    font-size: 20px;
+    margin : 5px;
+    padding: 10px;
+
+}
+
+footer {
+    padding-top: 70px;
+}
+
+footer h3 {
+    color: cornflowerblue;
+    margin: 5px
+}
+
+
