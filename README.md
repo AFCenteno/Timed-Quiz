@@ -4,4 +4,4 @@ I have been tasked with creating a quiz that is timed and at the end you are abl
 
 Link to app: https://mrafcent1.github.io/Timed-Quiz/
 
-![Alt text](./assets/Timed Quiz.png?raw=true "Quiz")
+![Alt text](/assets/Timed Quiz.png?raw=true "Quiz")
